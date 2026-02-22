@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Victor%20Souza%20Fagundes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20QA%20Engineer%20%7C%20QA%20Automation&descColor=94d2ff&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Victor%20Souza%20Fagundes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20QA%20Automation&descColor=94d2ff&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
