@@ -86,15 +86,16 @@ open_to: Junior QA / QA Automation opportunities
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vctrsf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&count_private=true&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vctrsf&theme=tokyonight" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vctrsf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8&cache_seconds=1800" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vctrsf&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=vctrsf&theme=tokyonight&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vctrsf&theme=tokyonight&utcOffset=-3" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vctrsf&theme=tokyonight" />
 </div>
----
 
 ## 🌱 Currently Exploring
 
