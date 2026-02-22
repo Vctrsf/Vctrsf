@@ -16,11 +16,11 @@
     <img src="https://img.shields.io/badge/🌐%20English-Professional%20Working%20Proficiency-0ea5e9?style=flat-square&labelColor=0f172a"/>
   </p>
   <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <a href="https://linkedin.com/in/victor-souza-fagundes-f15" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a"/>
     </a>
     &nbsp;
-    <a href="mailto:YOUR_EMAIL">
+    <a href="mailto:btf.victosf0206@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact%20Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a"/>
     </a>
   </p>
@@ -86,13 +86,13 @@ open_to: Junior QA / QA Automation opportunities
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vctrsf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&count_private=true" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VctrsfE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Vctrsf&theme=tokyonight&hide_border=true&background=0f172a&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569" />
 </div>
 
 ---
