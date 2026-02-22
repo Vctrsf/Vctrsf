@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0ea5e9&height=200&section=header&text=Victor%20Souza%20Fagundes&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20QA%20Engineer%20%7C%20QA%20Automation&descColor=94d2ff&descAlignY=58&descSize=18" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Junior+QA+Engineer+%7C+QA+Automation;Test+Automation+with+Cypress+%26+BDD;Passionate+about+Software+Quality;Santos%2C+S%C3%A3o+Paulo+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+</div>
+
 <!-- Intro -->
 <div align="center">
   <h3>🔍 Ensuring quality, one test at a time.</h3>
