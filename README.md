@@ -88,7 +88,7 @@ open_to: Junior QA / QA Automation opportunities
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vctrsf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8&count_private=true" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VctrsfE&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vctrsf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=0ea5e9&text_color=94a3b8" />
 </div>
 
 <div align="center">
