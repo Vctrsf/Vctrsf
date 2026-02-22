@@ -1,16 +1,21 @@
+```yaml
+nome: Victor Souza Fagundes
+localizacao: Santos, São Paulo
+stack: Analista de QA / QA Engineer
+educacao:
+[
+"Graduação em Análise e Desenvolvimento de Sistema
+]
+```
+
+
 ## Hi there 👋
-
-<!--
-**Vctrsf/Vctrsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
